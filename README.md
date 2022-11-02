@@ -20,10 +20,10 @@ Lógica de programação e conhecimentos básicos na linguagem Python.
 
 ## Projetos
 
-* Projeto 0
-* Projeto 1
-* Projeto 2
-* Projeto 3
-* Projeto 4
-* Projeto 5
-* Projeto 6
+* [Projeto 0](./Aula_0_Busca/Projeto.md)
+* [Projeto 1](./Aula_1_Conhecimento/Projeto.md)
+* [Projeto 2](./Aula_2_Incerteza/Projeto.md)
+* [Projeto 3](./Aula_3_Otimiza%C3%A7%C3%A3o/Projeto.md)
+* [Projeto 4](./Aula_4_Aprendizado/Projeto.md)
+* [Projeto 5](./Aula_5_Redes_Neurais/Projeto.md)
+* [Projeto 6](./Aula_6_Linguagem/Projeto.md)
