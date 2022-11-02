@@ -10,13 +10,13 @@ Lógica de programação e conhecimentos básicos na linguagem Python.
 
 ## Aulas
 
-0. Busca
-1. Conhecimento
-2. Incerteza
-3. Otimização
-4. Aprendizado
-5. Redes Neurais
-6. Linguagem
+0. [Busca](./Aula_0_Busca/)
+1. [Conhecimento](./Aula_1_Conhecimento/)
+2. [Incerteza](./Aula_2_Incerteza/)
+3. [Otimização](./Aula_3_Otimiza%C3%A7%C3%A3o/)
+4. [Aprendizado](./Aula_4_Aprendizado/)
+5. [Redes Neurais](./Aula_5_Redes_Neurais/)
+6. [Linguagem](./Aula_6_Linguagem/)
 
 ## Projetos
 
